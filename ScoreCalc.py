@@ -31,7 +31,7 @@ score_values = {
         'Hive 2': 10000,
         'Hive 3': 10000,
         'Hive 4': 10000,
-        'Breeder 1': 10000,
+        'Breeder 1': 9750,
         'Hive 5': 15000,
         'Hive 6': 15000,
         'Hive 7': 15000,
